@@ -1,0 +1,14 @@
+G:\C# projects\W1\Exam\Task6\bin\Debug\net9.0\Task6.exe
+G:\C# projects\W1\Exam\Task6\bin\Debug\net9.0\Task6.deps.json
+G:\C# projects\W1\Exam\Task6\bin\Debug\net9.0\Task6.runtimeconfig.json
+G:\C# projects\W1\Exam\Task6\bin\Debug\net9.0\Task6.dll
+G:\C# projects\W1\Exam\Task6\bin\Debug\net9.0\Task6.pdb
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.AssemblyInfoInputs.cache
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.AssemblyInfo.cs
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.csproj.CoreCompileInputs.cache
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.dll
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\refint\Task6.dll
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.pdb
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\Task6.genruntimeconfig.cache
+G:\C# projects\W1\Exam\Task6\obj\Debug\net9.0\ref\Task6.dll
